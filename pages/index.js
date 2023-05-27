@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
     </Head>
       <section className={utilStyle.headingMd}>
         <p>
-          ブログです
+          私はNext.jsエンジニアです/ネットワークエンジニアでもあります
         </p>
       </section>
 
